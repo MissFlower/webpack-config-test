@@ -1,0 +1,28 @@
+/* $color: rgb(190, 23, 167); */
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  background: cyan;
+  /* 新增 */
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+}
+p {
+  /* background-color: $color; */
+  background-color: rgb(190, 23, 167);
+  width: 100px;
+  height: 100px;
+  display: block;
+  text-align: center;
+  line-height: 100px;
+  margin: 0;
+}
+
+.name {
+  color: red;
+  font-size: 30px;
+}

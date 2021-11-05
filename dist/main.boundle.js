@@ -1,0 +1,1 @@
+!function(){"use strict";var o,c;console.log((o=1,c=3,console.log(o,c),o-c))}();
